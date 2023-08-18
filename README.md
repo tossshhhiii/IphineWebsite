@@ -2,7 +2,7 @@
 https://tossshhhiii.github.io/IphineWebsite/ - site view
 
 Adaptive for the phone ✅ <br>
-Using SCSS✅
-Using JavaScript ❌
-clickable links and buttons ❌
+Using SCSS✅ <br>
+Using JavaScript ❌ <br>
+clickable links and buttons ❌ <br>
 
